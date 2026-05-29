@@ -4,6 +4,12 @@
 
 Watch as 100 agents (50 per civilization) negotiate trades using abstract symbols. Every thought, every message, every trade decision flows through LangChain SDK pipelines — `ChatPromptTemplate`, `JsonOutputParser`, `createAgent()` (ReAct), and `DynamicTool`. Successful deals reinforce meaning; failed trades weaken it. Over hundreds of rounds, a common vocabulary emerges through pure reinforcement.
 
+<img width="1922" height="1214" alt="alien-translator-1" src="https://github.com/user-attachments/assets/fdf3bad4-ea92-43f7-a210-162b2ece8b28" />
+<img width="1922" height="1214" alt="alien-translator-2" src="https://github.com/user-attachments/assets/bd46c232-beac-4665-b887-784cf9e58d6d" />
+<img width="1922" height="1214" alt="alien-translator-3" src="https://github.com/user-attachments/assets/fd48220f-7f77-4913-9be3-2fdd4cfeef14" />
+<img width="1922" height="1773" alt="alien-translator-4" src="https://github.com/user-attachments/assets/2f1fab68-a820-4421-91dd-54853fbaae6b" />
+
+
 ---
 
 ## Why LangChain Is the Core
